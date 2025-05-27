@@ -3,6 +3,9 @@
 ### I'm seeking a career in Technology Industry.
 I’m learn **Python, Machine Learning, Power BI, MongoDB, SQL, CSS, and HTML** online.
 
+:arrow_right: [My Resume Website](https://example.com)
+
+***If you're interested, feel free to reach out via :email: at poppy.natt1@gmail.com***
 <!--
 **Natticha-Poppy/Natticha-Poppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
