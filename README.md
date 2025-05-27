@@ -1,4 +1,4 @@
-# Hello👋. 
+# Hello👋. Welcome To My GitHub
 ## I'm Natticha Pantong. 
 ### I'm seeking a career in Technology Industry.
 I’m learn **Python, Machine Learning, Power BI, MongoDB, SQL, CSS, and HTML** online.
